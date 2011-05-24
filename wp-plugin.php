@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: ThirdPresence mobile video plugin
-Version: 1.0
+Version: 1.0.1
 Plugin URI: http://wiki.thirdpresence.com/index.php/WordPress_Plugin_Description
 Author: ThirdPresence Ltd.
 Author URI: http://www.thirdpresence.com
